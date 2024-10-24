@@ -1,0 +1,102 @@
+[
+  
+  {
+      "questionNo": "Q1",
+      "question": "The quizmaster showed an image. What type of the shape is in the following image?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 0,
+      "secondImg":"./images/1.png"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "One of the questions was about a hula hoop. What type of shape does it create?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 1,
+      "secondImg":"./images/2.png"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "The quizmaster showed a picture of a door. What type of shape does the door represent?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 1,
+      "secondImg":"./images/3.png"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Lila saw the time on the clock. What kind of shape is the clock?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 1,
+      "secondImg":"./images/4.png"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "During the quiz, the children saw a picture of a donut. What kind of shape is the donut?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 0,
+      "secondImg":"./images/5.png"
+  },
+  {
+      "questionNo": "Q6",
+      "question": "The quizmaster asked what type of shape is formed by a letter U. What is this shape?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 0,
+      "secondImg":"./images/6.png"
+  },
+  {
+      "questionNo": "Q7",
+      "question": "The quizmaster showed them an arch of a bridge. What kind of shape is the arch of the bridge?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 0,
+      "secondImg":"./images/7.png"
+  },
+  {
+      "questionNo": "Q8",
+      "question": "The quizmaster showed a picture of a kite. If the kite is flying in the sky, what kind of shape is it?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 1,
+      "secondImg":"./images/8.png"
+  },
+  {
+      "questionNo": "Q9",
+      "question": "One of the questions was about the letter 'L'. What type of shape does the letter L represent?",
+      "options": [
+          "Open shape",
+          "Closed shape"
+      ],
+      "correct": 0,
+      "secondImg":"./images/9.png"
+  },
+  {
+    "questionNo": "Q10",
+    "question": "The quizmaster asked the children to identify a shape that has no gaps and is all connected. What is this shape called?",
+    "options": [
+        "Open shape",
+        "Closed shape"
+    ],
+    "correct": 1
+}
+]
